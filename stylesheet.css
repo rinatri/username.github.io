@@ -8,37 +8,35 @@ li {
 }
 
 footer {
-  height: 400px;
-  /*padding-top: 30px;
-  color: #bc8743;
-  font-family: "calibri";
-  background-color: black;
-  text-align: center;*/
+  height: 250px;
+  background-color: #202020;
+  font-family: "cambria";
 }
 
-.footer-container {
-  height: 100px;
-  border-bottom: 2px solid #dee7ec;
-  background-color: #202020;
+.footer-container1 {
+  height: 90px;
+  border-bottom: 2px solid #bc8743;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .footer-title {
   float: left;
-
   font-size: 28px;
-  font-family: "sans-serif";
   color: #bc8743;
   padding: 20px 40px;
+
 }
 
 .footer-medsos li{
-  float: left;
+  float: right;
   padding: 33px 20px;
 }
 
 .footer-medsos a{
   color: #bc8743;
   text-decoration: none;
+  font-size: 16px;
 }
 
 .fb span{
@@ -53,3 +51,29 @@ footer {
   margin-right: 5px;
 }
 
+.footer-list {
+  width:70%;
+  margin: 0 auto;
+}
+
+.footer-list a {
+  padding: 10px;
+  float: left;
+  text-decoration: none;
+  color: #bc8743;
+  font-size: 18px;
+}
+
+.footer-container2 {
+  height: 60px;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.footer-container2 a {
+  padding: 10px;
+  float: left;
+  text-decoration: none;
+  color: #bc8743;
+  font-size: 18px;
+}
