@@ -57,11 +57,12 @@ footer {
 }
 
 .footer-list a {
-  padding: 10px;
+  padding: 0px 10px;
   float: left;
   text-decoration: none;
   color: #bc8743;
-  font-size: 18px;
+  font-size: 20px;
+  border-right: 1px solid #bc8743;
 }
 
 .footer-container2 {
@@ -71,7 +72,7 @@ footer {
 }
 
 .footer-container2 a {
-  padding: 10px;
+  padding: 30px;
   float: left;
   text-decoration: none;
   color: #bc8743;
