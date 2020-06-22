@@ -77,3 +77,17 @@ footer {
   color: #bc8743;
   font-size: 18px;
 }
+
+a:hover {
+  color: white;
+}
+
+.img1:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.img2:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
