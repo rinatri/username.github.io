@@ -19,7 +19,7 @@ footer {
 .footer-container {
   height: 100px;
   border-bottom: 2px solid #dee7ec;
-  background-color: #202020;
+  background-color: blue;
 }
 
 .footer-title {
