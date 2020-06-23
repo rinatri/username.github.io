@@ -106,7 +106,7 @@ footer {
 .footer-container1 {
   height: 90px;
   border-bottom: 2px solid #bc8743;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -157,7 +157,7 @@ footer {
 
 .footer-container2 {
   height: 60px;
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
 }
 
