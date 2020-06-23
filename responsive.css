@@ -1,0 +1,173 @@
+@media (max-width: 670px) {
+	.topnav a {
+		float: none;
+		font-size: 12px;
+		margin-left: 0px;
+	}
+	.btn-login {
+
+		margin-right: 5px;
+		padding: 7px 5px;
+	}
+	.header {
+		font-size: 15px;
+	}
+	.search-container {
+		margin-right: 0px;
+	}
+	.search-container button {
+		font-size: 10px;
+	}
+	.txt-search {
+		font-size: 8px;
+	}
+	img {
+		width: 670px;
+	}
+	.img1 {
+		none;
+	}
+	.img2 {
+		none;
+	}
+	footer {
+  height: 55%;
+
+}
+
+.footer-container1 {
+  height: 90px;
+  border-bottom: none;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 16px;
+  padding: 5px 10px;
+  float: none;
+}
+
+.footer-medsos{
+   text-align: center;
+
+}
+
+.footer-medsos li{
+  float: none;
+  padding: 5px 5px;
+}
+
+.footer-medsos a{
+  font-size: 14px;
+
+}
+
+.fb span{
+  margin-right: 5px;
+}
+
+.twit span{
+  margin-right: 5px;
+}
+
+.ig span{
+  margin-right: 5px;
+}
+
+.footer-list {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer-list a {
+  padding: 5px 10px;
+  float: none;
+  font-size: 12px;
+  border-right: none;
+}
+
+.footer-container2 {
+  height: 60px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.footer-container2 a {
+  padding: 10px;
+  float: none;
+  font-size: 14px;
+}
+}
+
+@media (max-width: 1000px) {
+	footer {
+  height: 55%;
+
+}
+
+.footer-container1 {
+  height: 90px;
+  border-bottom: none;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 16px;
+  padding: 5px 10px;
+  float: none;
+}
+
+.footer-medsos{
+   text-align: center;
+
+}
+
+.footer-medsos li{
+  float: none;
+  padding: 5px 5px;
+}
+
+.footer-medsos a{
+  font-size: 14px;
+
+}
+
+.fb span{
+  margin-right: 5px;
+}
+
+.twit span{
+  margin-right: 5px;
+}
+
+.ig span{
+  margin-right: 5px;
+}
+
+.footer-list {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer-list a {
+  padding: 5px 10px;
+  float: none;
+  font-size: 12px;
+  border-right: none;
+}
+
+.img1 {
+	display: none;
+}
+.img2 {
+	display: none;
+}
+}
