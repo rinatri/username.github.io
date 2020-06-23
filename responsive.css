@@ -32,7 +32,7 @@
 	}
 	footer {
   height: 55%;
-width: 670px;		
+width: 100%;		
 
 }
 
@@ -128,7 +128,7 @@ width: 670px;
 @media (max-width: 1000px) {
 	footer {
   height: 55%;
-
+width: 100%;
 }
 
 .footer-container1 {
