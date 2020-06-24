@@ -247,10 +247,10 @@ a:hover {
 }
 
 .message {
-  padding: 15px 40px;
-  background-color: #5dca88;
-  cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+    padding: 15px 40px;
+    background-color: #e3c4b0;
+    cursor: pointer;
+    box-shadow: 0 7px #bc8743;
 }
 
 .message:active {
