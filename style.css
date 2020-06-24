@@ -3,6 +3,9 @@ html, body {
   margin : 0;
   font-family: "Cambria", sans-serif;
 }
+{
+  box-sizing: border-box
+}
 .bg-img {
   background-image: url("olshop.jpg");
   min-height: 400px;
@@ -13,7 +16,7 @@ html, body {
   opacity: 85%
 }
 
-.container2 {
+.container {
   background-color: transparent;
   position: relative;
   width: 100%;
@@ -142,7 +145,8 @@ footer {
 }
 
 .footer-list {
-  width: 800px;
+  /*width: 800px;*/
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -186,7 +190,7 @@ a:hover {
 /*main*/
 
 .container {
-  width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
